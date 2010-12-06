@@ -1,0 +1,3 @@
+[reviewboard.extensions]
+RB-WEBHOOKS = rbwebhooks.extension:WebhooksExtension
+
